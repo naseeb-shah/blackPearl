@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 
 ## Deployment
 
-This project is deployed on Vercel. You can access the live version [here](#https://black-pearl-theta.vercel.app/).
+This project is deployed on Vercel. You can access the live version [https://black-pearl-theta.vercel.app/].
 
 ## Contributing
 
