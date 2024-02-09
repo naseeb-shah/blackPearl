@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 
 ## Deployment
 
-This project is deployed on Netlify. You can access the live version [here](#) (replace with your Netlify URL).
+This project is deployed on Vercel. You can access the live version [here](#https://black-pearl-theta.vercel.app/).
 
 ## Contributing
 
