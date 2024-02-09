@@ -4,6 +4,7 @@
 
 Welcome to the Dashboard Project repository! This project is a dynamic dashboard built with React and utilizes the Recharts library for data visualization. It fetches data from an API using Axios, enabling real-time updates of the displayed information. The project is deployed on Netlify for convenient access.
 
+![Dashboard Preview](/sort.png)
 ![Dashboard Preview](/Dashboard.png)
 
 ## Features
