@@ -1,6 +1,4 @@
-Absolutely! Here's a README.md tailored for your GitHub repository:
 
----
 
 # Dashboard Project
 
